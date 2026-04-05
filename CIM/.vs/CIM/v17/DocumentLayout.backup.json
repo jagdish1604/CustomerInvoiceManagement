@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PracticalTest\\CIM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97D6B1BF-0A34-40E1-B6A6-4C379AF1E4BD}|CIM.Services\\CIM.Services.csproj|d:\\practicaltest\\cim\\cim.services\\implementations\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D6B1BF-0A34-40E1-B6A6-4C379AF1E4BD}|CIM.Services\\CIM.Services.csproj|solutionrelative:cim.services\\implementations\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00CA5BB-3CC2-4E8B-8E3F-1E7A9307FE11}|CIM.API\\CIM.API.csproj|d:\\practicaltest\\cim\\cim.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00CA5BB-3CC2-4E8B-8E3F-1E7A9307FE11}|CIM.API\\CIM.API.csproj|solutionrelative:cim.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00CA5BB-3CC2-4E8B-8E3F-1E7A9307FE11}|CIM.API\\CIM.API.csproj|d:\\practicaltest\\cim\\cim.api\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00CA5BB-3CC2-4E8B-8E3F-1E7A9307FE11}|CIM.API\\CIM.API.csproj|solutionrelative:cim.api\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00CA5BB-3CC2-4E8B-8E3F-1E7A9307FE11}|CIM.API\\CIM.API.csproj|d:\\practicaltest\\cim\\cim.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00CA5BB-3CC2-4E8B-8E3F-1E7A9307FE11}|CIM.API\\CIM.API.csproj|solutionrelative:cim.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D6B1BF-0A34-40E1-B6A6-4C379AF1E4BD}|CIM.Services\\CIM.Services.csproj|d:\\practicaltest\\cim\\cim.services\\dtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D6B1BF-0A34-40E1-B6A6-4C379AF1E4BD}|CIM.Services\\CIM.Services.csproj|solutionrelative:cim.services\\dtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368E98E7-B0FC-4F08-8E52-C25762A87EE6}|CIM.Repository\\CIM.Repository.csproj|d:\\practicaltest\\cim\\cim.repository\\implementations\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368E98E7-B0FC-4F08-8E52-C25762A87EE6}|CIM.Repository\\CIM.Repository.csproj|solutionrelative:cim.repository\\implementations\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368E98E7-B0FC-4F08-8E52-C25762A87EE6}|CIM.Repository\\CIM.Repository.csproj|d:\\practicaltest\\cim\\cim.repository\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368E98E7-B0FC-4F08-8E52-C25762A87EE6}|CIM.Repository\\CIM.Repository.csproj|solutionrelative:cim.repository\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D6B1BF-0A34-40E1-B6A6-4C379AF1E4BD}|CIM.Services\\CIM.Services.csproj|d:\\practicaltest\\cim\\cim.services\\interfaces\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D6B1BF-0A34-40E1-B6A6-4C379AF1E4BD}|CIM.Services\\CIM.Services.csproj|solutionrelative:cim.services\\interfaces\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368E98E7-B0FC-4F08-8E52-C25762A87EE6}|CIM.Repository\\CIM.Repository.csproj|d:\\practicaltest\\cim\\cim.repository\\interfaces\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368E98E7-B0FC-4F08-8E52-C25762A87EE6}|CIM.Repository\\CIM.Repository.csproj|solutionrelative:cim.repository\\interfaces\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PracticalTest\\CIM\\CIM.API\\Program.cs",
+              "RelativeDocumentMoniker": "CIM.API\\Program.cs",
+              "ToolTip": "D:\\PracticalTest\\CIM\\CIM.API\\Program.cs",
+              "RelativeToolTip": "CIM.API\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T17:17:25.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "D:\\PracticalTest\\CIM\\CIM.API\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "CIM.API\\Controllers\\InvoiceController.cs",
+              "ToolTip": "D:\\PracticalTest\\CIM\\CIM.API\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "CIM.API\\Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:07:07.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\PracticalTest\\CIM\\CIM.Repository\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "CIM.Repository\\Models\\Invoice.cs",
+              "ToolTip": "D:\\PracticalTest\\CIM\\CIM.Repository\\Models\\Invoice.cs",
+              "RelativeToolTip": "CIM.Repository\\Models\\Invoice.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:04:47.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoiceDto.cs",
+              "DocumentMoniker": "D:\\PracticalTest\\CIM\\CIM.Services\\DTOs\\InvoiceDto.cs",
+              "RelativeDocumentMoniker": "CIM.Services\\DTOs\\InvoiceDto.cs",
+              "ToolTip": "D:\\PracticalTest\\CIM\\CIM.Services\\DTOs\\InvoiceDto.cs",
+              "RelativeToolTip": "CIM.Services\\DTOs\\InvoiceDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:24:29.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\PracticalTest\\CIM\\CIM.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CIM.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\PracticalTest\\CIM\\CIM.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CIM.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:20:30.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IInvoiceService.cs",
+              "DocumentMoniker": "D:\\PracticalTest\\CIM\\CIM.Services\\Interfaces\\IInvoiceService.cs",
+              "RelativeDocumentMoniker": "CIM.Services\\Interfaces\\IInvoiceService.cs",
+              "ToolTip": "D:\\PracticalTest\\CIM\\CIM.Services\\Interfaces\\IInvoiceService.cs",
+              "RelativeToolTip": "CIM.Services\\Interfaces\\IInvoiceService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:17:15.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "D:\\PracticalTest\\CIM\\CIM.Services\\Implementations\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "CIM.Services\\Implementations\\InvoiceService.cs",
+              "ToolTip": "D:\\PracticalTest\\CIM\\CIM.Services\\Implementations\\InvoiceService.cs",
+              "RelativeToolTip": "CIM.Services\\Implementations\\InvoiceService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:16:46.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IInvoiceRepository.cs",
+              "DocumentMoniker": "D:\\PracticalTest\\CIM\\CIM.Repository\\Interfaces\\IInvoiceRepository.cs",
+              "RelativeDocumentMoniker": "CIM.Repository\\Interfaces\\IInvoiceRepository.cs",
+              "ToolTip": "D:\\PracticalTest\\CIM\\CIM.Repository\\Interfaces\\IInvoiceRepository.cs",
+              "RelativeToolTip": "CIM.Repository\\Interfaces\\IInvoiceRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:16:34.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceRepository.cs",
+              "DocumentMoniker": "D:\\PracticalTest\\CIM\\CIM.Repository\\Implementations\\InvoiceRepository.cs",
+              "RelativeDocumentMoniker": "CIM.Repository\\Implementations\\InvoiceRepository.cs",
+              "ToolTip": "D:\\PracticalTest\\CIM\\CIM.Repository\\Implementations\\InvoiceRepository.cs",
+              "RelativeToolTip": "CIM.Repository\\Implementations\\InvoiceRepository.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAIwHgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:16:21.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

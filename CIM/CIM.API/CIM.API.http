@@ -1,0 +1,6 @@
+@CIM.API_HostAddress = http://localhost:5115
+
+GET {{CIM.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

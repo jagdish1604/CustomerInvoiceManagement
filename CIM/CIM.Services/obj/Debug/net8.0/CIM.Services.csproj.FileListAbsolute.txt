@@ -1,0 +1,15 @@
+D:\PracticalTest\CIM\CIM.Services\bin\Debug\net8.0\CIM.Services.deps.json
+D:\PracticalTest\CIM\CIM.Services\bin\Debug\net8.0\CIM.Services.dll
+D:\PracticalTest\CIM\CIM.Services\bin\Debug\net8.0\CIM.Services.pdb
+D:\PracticalTest\CIM\CIM.Services\bin\Debug\net8.0\CIM.Repository.dll
+D:\PracticalTest\CIM\CIM.Services\bin\Debug\net8.0\CIM.Repository.pdb
+D:\PracticalTest\CIM\CIM.Services\obj\Debug\net8.0\CIM.Services.csproj.AssemblyReference.cache
+D:\PracticalTest\CIM\CIM.Services\obj\Debug\net8.0\CIM.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\PracticalTest\CIM\CIM.Services\obj\Debug\net8.0\CIM.Services.AssemblyInfoInputs.cache
+D:\PracticalTest\CIM\CIM.Services\obj\Debug\net8.0\CIM.Services.AssemblyInfo.cs
+D:\PracticalTest\CIM\CIM.Services\obj\Debug\net8.0\CIM.Services.csproj.CoreCompileInputs.cache
+D:\PracticalTest\CIM\CIM.Services\obj\Debug\net8.0\CIM.Serv.7485E244.Up2Date
+D:\PracticalTest\CIM\CIM.Services\obj\Debug\net8.0\CIM.Services.dll
+D:\PracticalTest\CIM\CIM.Services\obj\Debug\net8.0\refint\CIM.Services.dll
+D:\PracticalTest\CIM\CIM.Services\obj\Debug\net8.0\CIM.Services.pdb
+D:\PracticalTest\CIM\CIM.Services\obj\Debug\net8.0\ref\CIM.Services.dll

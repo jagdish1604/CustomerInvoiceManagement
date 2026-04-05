@@ -1,0 +1,12 @@
+D:\PracticalTest\CIM\CIM.Repository\bin\Debug\net8.0\CIM.Repository.deps.json
+D:\PracticalTest\CIM\CIM.Repository\bin\Debug\net8.0\CIM.Repository.dll
+D:\PracticalTest\CIM\CIM.Repository\bin\Debug\net8.0\CIM.Repository.pdb
+D:\PracticalTest\CIM\CIM.Repository\obj\Debug\net8.0\CIM.Repository.csproj.AssemblyReference.cache
+D:\PracticalTest\CIM\CIM.Repository\obj\Debug\net8.0\CIM.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\PracticalTest\CIM\CIM.Repository\obj\Debug\net8.0\CIM.Repository.AssemblyInfoInputs.cache
+D:\PracticalTest\CIM\CIM.Repository\obj\Debug\net8.0\CIM.Repository.AssemblyInfo.cs
+D:\PracticalTest\CIM\CIM.Repository\obj\Debug\net8.0\CIM.Repository.csproj.CoreCompileInputs.cache
+D:\PracticalTest\CIM\CIM.Repository\obj\Debug\net8.0\CIM.Repository.dll
+D:\PracticalTest\CIM\CIM.Repository\obj\Debug\net8.0\refint\CIM.Repository.dll
+D:\PracticalTest\CIM\CIM.Repository\obj\Debug\net8.0\CIM.Repository.pdb
+D:\PracticalTest\CIM\CIM.Repository\obj\Debug\net8.0\ref\CIM.Repository.dll
