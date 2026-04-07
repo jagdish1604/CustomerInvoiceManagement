@@ -67,6 +67,10 @@ namespace CIM.API.Controllers
             }
             catch (Exception ex)
             {
+                if (ex.Message.Contains("UNIQUE"))
+                {
+                    return BadRequest("Email already exists");
+                }
                 _logger.LogError(ex, "Error occurred");
                 return BadRequest(ex.Message);
             }
